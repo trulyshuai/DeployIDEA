@@ -1,0 +1,46 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Cannot resolve plugin org.springframework.boot:spring-boot-maven-plugin:&lt;unknown&gt;" />
+      <item value="inspect" />
+      <item value="Failed to load property source from location" />
+      <item value="source" />
+      <item value="load" />
+      <item value="Failed" />
+      <item value="Data truncation: Data too long for column 'address' at row 1" />
+      <item value="制备" />
+      <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
+      <item value="element cannot be mapped to a null key" />
+      <item value="请选择部门" />
+      <item value="org.springframework.beans.factory.Bean Definition Store Exception" />
+      <item value="sql Path" />
+      <item value="dao Suffix" />
+      <item value="base Package" />
+      <item value="prefix" />
+      <item value="Disribute" />
+      <item value="to Disribute" />
+      <item value="icon Size" />
+      <item value="样品" />
+      <item value="onload" />
+      <item value="倒计时" />
+      <item value="No bean named" />
+      <item value="Exception starting filter filterChainProxy" />
+      <item value="Could not autowire. No beans of 'TbItemMapper' type found. less... (Ctrl+F1) Inspection info:Checks autowiring problems in a bean class." />
+      <item value="No provider available for the service" />
+      <item value="Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanInitializationException: Failed to init remote service reference" />
+      <item value="Error creating bean with name" />
+      <item value="Bean Creation Exception" />
+      <item value="transition" />
+      <item value="Specification" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

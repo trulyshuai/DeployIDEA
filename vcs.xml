@@ -1,0 +1,39 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://223.75.59.215:6880/soil/hs-soil/hssoil-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://223.75.59.215:6880" />
+          <option name="userName" value="trulyshuai" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://223.75.59.215:6880/soil/vue-yc/ycsoil.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://223.75.59.215:6880/rate-component/rate-component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@223.75.59.215:622/rate-component/rate-component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\leite\runoob30" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="1" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

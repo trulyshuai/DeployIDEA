@@ -1,0 +1,315 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="JavacSettings">
+        <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="E:\Javajjj\maven_repository" />
+            <option name="mavenHome" value="D:\Program Files\JAVA-JJJ\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+            <option name="userSettingsFile" value="E:\Javajjj\apache-maven-3.6.1\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Trulyshuai" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>AOP</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>ArquillianJava</id>
+              </State>
+              <State>
+                <id>Bean Validation</id>
+              </State>
+              <State>
+                <id>Bidirectional TextInternationalizationLintAndroid</id>
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>Code quality toolsCSS</id>
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>CodePlugin DevKit</id>
+              </State>
+              <State>
+                <id>ComplianceLintAndroid</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Dependency issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>FlexUnit</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Guice</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>InternationalizationJava</id>
+              </State>
+              <State>
+                <id>InternationalizationLintAndroid</id>
+              </State>
+              <State>
+                <id>JSP</id>
+              </State>
+              <State>
+                <id>JUnitJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java interop issuesKotlin</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>Kotlin Android</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>LintLintAndroid</id>
+              </State>
+              <State>
+                <id>LoggingJava</id>
+              </State>
+              <State>
+                <id>MemoryJava</id>
+              </State>
+              <State>
+                <id>MessagesCorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Modularization issuesJava</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>Packaging issuesJava</id>
+              </State>
+              <State>
+                <id>Pattern validation</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>PortabilityJava</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsGroovy</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>Reactor</id>
+              </State>
+              <State>
+                <id>Reflective accessJava</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>SecurityJava</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Style issuesKotlin</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>UsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>WebSocket</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="E:/leite/runoob10" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\Trulyshuai\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="LAST_COMMIT_MESSAGE" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
