@@ -30,9 +30,13 @@
           <option name="url" value="ssh://git@223.75.59.215:622/web-vue/rate-yy-bigdata/rate-yy-bigdata-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@223.75.59.215:622/test/git-branch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\leite\runoob31" />
+    <option name="cloneParentDir" value="E:\leite\data" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
