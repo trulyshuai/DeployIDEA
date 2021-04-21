@@ -12,8 +12,8 @@
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.html</mask>
   </component>
 </application>
