@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
@@ -13,7 +13,7 @@
     <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
   </component>
 </application>
