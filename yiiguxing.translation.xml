@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="remote" />
       <item value="Response Body" />
       <item value="ResponseBody" />
       <item value="annotation" />
@@ -47,6 +48,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620281057486" />
+    <option name="lastTrimTime" value="1620719902465" />
   </component>
 </application>
