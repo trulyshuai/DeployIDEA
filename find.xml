@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\lib [rate_nkd_soil_parent]'" />
-    <option name="defaultScopeName" value="Directory '...\lib [rate_nkd_soil_parent]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\lib [rate_nkd_soil_parent]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
